@@ -1,17 +1,17 @@
 # HoangDucDev
-Showcasing my work in Unity game development, 2D &amp; 3D game design, pixel art, and professional video editing. Featuring projects in C#, animation, VFX, and creative storytelling
+Showcasing my work in Unity game development, 2D game design, pixel art, and professional video editing. Featuring projects in C#, animation, VFX, and creative storytelling
 
 ### 👋 Hi there, I'm [Hoang Duc]  
 
-🚀 **Unity Game Developer | Video Editor | 2D/3D Artist | Pixel Art Enthusiast**  
+🚀 **Unity Game Developer | Video Editor | 2D Artist | Pixel Art Enthusiast**  
 
 I specialize in **game development, VFX, and video editing**. With a strong foundation in **Unity, C#, and Blender**, I bring immersive gaming experiences to life. I also have extensive experience in **motion graphics, cinematics, and post-production editing**. My expertise extends to **Pixel Art**, where I create retro-style assets for games.  
 
 ### 🛠️ **My Tech Stack:**  
-🎮 Unity | C# | Unreal Engine  
-🎨 Photoshop | Illustrator | Blender | After Effects  
-🖌️ Aseprite | Pyxel Edit | Krita (for Pixel Art)  
-🎥 Premiere Pro | After Effect | CapCut | Adobe Animate
+🎮 Unity | C#  
+🎨 Blender
+🖌️ Aseprite 
+🎥 Premiere Pro | CapCut | Adobe Animate
 
 ### 🔥 **What I Do:**  
 - 🎮 Develop 2D & 3D games with **Unity & C#**  
